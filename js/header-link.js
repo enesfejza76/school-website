@@ -1,0 +1,2 @@
+let headerLink = document.getElementById('header-link');
+headerLink.innerHTML = "<li><a href='./about-us.html'>Rreth nesh</a></li><li><a href='./our-facilities.html'>Kabinete Tona</a></li><li><a href='./blog.html'>Blog</a></li><li><a href='./courses.html'>Profilet Tona</a></li><li><a href='./projektet.html'>Projektet</a></li><li><a href='./teachers.html'>Mësimthënësit</a></li><li><a href='./student-registration.html'>Apliko Këtu</a></li>";
